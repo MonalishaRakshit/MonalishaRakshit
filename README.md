@@ -1,28 +1,45 @@
 # Hi 👋, I'm Monalisha Rakshit
 
-### 💻 B.Tech CSE Student | MERN Stack Developer | AI Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=B.Tech+CSE+Student+%F0%9F%8E%93;MERN+Stack+Developer+%F0%9F%92%BB;Full-Stack+Web+Developer+%F0%9F%9A%80;AI+Enthusiast+%F0%9F%A4%96;Java+%7C+Python+%7C+JavaScript;Building+Real-World+Projects+%F0%9F%9B%A0%EF%B8%8F;Learning+%E2%80%A2+Building+%E2%80%A2+Improving+%F0%9F%8C%B1" alt="Typing SVG" />
+</p>
 
-I'm a Computer Science Engineering student graduating in **2027**, passionate about building practical, user-focused software solutions.
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500">
+</p>
 
-I enjoy developing **full-stack web applications using the MERN stack**, exploring **AI-powered applications**, and strengthening my problem-solving skills through **DSA and real-world projects**.
-
-> 🚀 I learn by building, experimenting, and turning ideas into real-world applications.
+<p align="center">
+  <i>Learning something new. Building something useful. Improving every day. 🚀</i>
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech Computer Science & Engineering Student
-- 🎯 Expected Graduation: **2027**
-- 💻 Focused on **MERN Stack Development**
-- 🤖 Exploring **AI-powered applications**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 🌱 Continuously learning and building real-world projects
-- 💡 Interested in Full-Stack Development, Backend Systems & AI
+I'm a **Computer Science Engineering student graduating in 2027**, passionate about building practical and user-focused software solutions.
+
+I enjoy developing **full-stack web applications using the MERN stack**, exploring **AI-powered applications**, and improving my problem-solving skills through **DSA and real-world projects**.
+
+My journey is not just about learning technologies — it's about understanding how to use them to solve real problems.
+
+> 💡 **Learn → Build → Debug → Improve → Repeat 🔄**
 
 ---
 
-## 🛠️ Tech Stack
+## 🌱 Currently Learning
+
+- ⚛️ React.js & modern frontend development
+- 🟢 Node.js & Express.js
+- 🍃 MongoDB & REST APIs
+- 🤖 AI-powered applications
+- 🧠 Data Structures & Algorithms
+- ☕ Java & Python
+- 🔐 Authentication & backend development
+- 🔧 Building scalable full-stack applications
+
+---
+
+# 🛠️ Tech Stack
 
 ### 💻 Languages
 
@@ -37,7 +54,7 @@ I enjoy developing **full-stack web applications using the MERN stack**, explori
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend
@@ -48,16 +65,15 @@ I enjoy developing **full-stack web applications using the MERN stack**, explori
 
 ### 🗄️ Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🔧 Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -65,7 +81,7 @@ I enjoy developing **full-stack web applications using the MERN stack**, explori
 
 I believe the best way to learn software development is by building real applications.
 
-Here are some of my recent projects focused on **MERN development, backend systems, authentication, and AI-powered applications**.
+Here are some of my recent projects focused on **MERN development, backend systems, authentication, and AI-powered applications.**
 
 ---
 
@@ -73,7 +89,7 @@ Here are some of my recent projects focused on **MERN development, backend syste
 
 A full-stack MERN food-sharing platform with a reels-style experience for discovering and sharing food.
 
-### ✨ Highlights
+### ✨ Features
 
 - 👤 User & food-partner authentication
 - 📱 Reels-style food content
@@ -95,7 +111,7 @@ A full-stack MERN food-sharing platform with a reels-style experience for discov
 
 A full-stack AI-powered interview preparation platform designed to help users practice interviews, upload resumes, and improve their job readiness.
 
-### ✨ Highlights
+### ✨ Features
 
 - 🤖 AI-powered interview preparation
 - 📄 Resume upload
@@ -113,10 +129,10 @@ A full-stack AI-powered interview preparation platform designed to help users pr
 
 A full-stack social media-style application built while exploring the MERN stack and modern web application development.
 
-### ✨ Highlights
+### ✨ Features
 
-- 👤 User-based application flow
-- 📝 Social feed functionality
+- 👤 User authentication
+- 📝 Social feed
 - ❤️ User interactions
 - 💬 Social engagement
 - 🔄 Dynamic content
@@ -131,7 +147,7 @@ A full-stack social media-style application built while exploring the MERN stack
 
 A backend-focused project created to understand authentication, authorization, and secure user management.
 
-### ✨ Highlights
+### ✨ Features
 
 - 👤 User registration
 - 🔑 Login functionality
@@ -147,7 +163,7 @@ A backend-focused project created to understand authentication, authorization, a
 
 ## 🎵 TuneFlow Backend
 
-A backend project focused on building server-side functionality and APIs for a music-related application.
+A backend project focused on server-side functionality and API development for a music-related application.
 
 ### ✨ Highlights
 
@@ -179,17 +195,23 @@ A backend application created to strengthen my understanding of server-side deve
 
 ---
 
-# 🌱 What I'm Currently Learning
+# 🧠 My Developer Journey
+
+I started my journey with programming fundamentals and gradually moved into web development.
 
 ```text
-MERN Stack
-   ↓
-Full-Stack Development
-   ↓
-REST APIs & Backend Architecture
-   ↓
-Data Structures & Algorithms
-   ↓
-AI / Machine Learning
-   ↓
-AI-Powered Applications
+Programming Fundamentals
+          ↓
+     HTML + CSS
+          ↓
+      JavaScript
+          ↓
+        React
+          ↓
+     Node + Express
+          ↓
+       MongoDB
+          ↓
+     MERN Stack
+          ↓
+   AI-Powered Apps
