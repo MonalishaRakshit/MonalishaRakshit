@@ -125,41 +125,6 @@ A full-stack AI-powered interview preparation platform designed to help users pr
 
 ---
 
-## 🌐 MERN Social Feed
-
-A full-stack social media-style application built while exploring the MERN stack and modern web application development.
-
-### ✨ Features
-
-- 👤 User authentication
-- 📝 Social feed
-- ❤️ User interactions
-- 💬 Social engagement
-- 🔄 Dynamic content
-
-### 🛠️ Tech Stack
-
-`MongoDB` `Express.js` `React.js` `Node.js`
-
----
-
-## 🔐 Secure Authentication System
-
-A backend-focused project created to understand authentication, authorization, and secure user management.
-
-### ✨ Features
-
-- 👤 User registration
-- 🔑 Login functionality
-- 🔐 Authentication
-- 🛡️ Protected routes
-- ⚙️ Backend authentication flow
-
-### 🛠️ Tech Stack
-
-`Node.js` `Express.js` `MongoDB` `JavaScript`
-
----
 
 ## 🎵 TuneFlow Backend
 
@@ -195,6 +160,29 @@ A backend application created to strengthen my understanding of server-side deve
 
 ---
 
+
+## 🐍 My GitHub Contributions
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/MonalishaRakshit/MonalishaRakshit/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/MonalishaRakshit/MonalishaRakshit/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/MonalishaRakshit/MonalishaRakshit/output/github-snake.svg"
+      alt="GitHub Contribution Snake Animation"
+    />
+  </picture>
+</p>
+
+
+---
+
 # 🧠 My Developer Journey
 
 I started my journey with programming fundamentals and gradually moved into web development.
@@ -215,3 +203,36 @@ Programming Fundamentals
      MERN Stack
           ↓
    AI-Powered Applications
+```
+
+
+## 📬 Contact Me
+
+I'm always open to discussing **development opportunities, interesting projects, internships, and collaborations.**
+
+<p align="center">
+  <a href="mailto:monalishaofficial25@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/monalisha-rakshit-a63876289/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>💡 Learn → Build → Debug → Improve → Repeat</b>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
+
